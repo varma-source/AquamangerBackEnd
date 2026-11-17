@@ -1,0 +1,10 @@
+# Google Cloud / Firebase credentials
+fcmApikey.json
+*service-account*.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+node_modules/
